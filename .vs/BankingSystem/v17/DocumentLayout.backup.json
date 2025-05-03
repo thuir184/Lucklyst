@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\logic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\logic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\graphics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\defs.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CDE326C3-56BD-4893-804C-97DEB6DFBAD6}|Project1\\Project1.vcxproj|solutionrelative:Project1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "logic.cpp",
+              "DocumentMoniker": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\logic.cpp",
+              "RelativeDocumentMoniker": "Project1\\logic.cpp",
+              "ToolTip": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\logic.cpp",
+              "RelativeToolTip": "Project1\\logic.cpp",
+              "ViewState": "AgIAAKoAAAAAAAAAAAAxwLsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T04:15:20.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "defs.h",
+              "DocumentMoniker": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\defs.h",
+              "RelativeDocumentMoniker": "Project1\\defs.h",
+              "ToolTip": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\defs.h",
+              "RelativeToolTip": "Project1\\defs.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T04:10:17.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "graphics.h",
+              "DocumentMoniker": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\graphics.h",
+              "RelativeDocumentMoniker": "Project1\\graphics.h",
+              "ToolTip": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\graphics.h",
+              "RelativeToolTip": "Project1\\graphics.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T04:13:43.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\main.cpp",
+              "RelativeDocumentMoniker": "Project1\\main.cpp",
+              "ToolTip": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\main.cpp",
+              "RelativeToolTip": "Project1\\main.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-12T10:43:54.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "logic.h",
+              "DocumentMoniker": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\logic.h",
+              "RelativeDocumentMoniker": "Project1\\logic.h",
+              "ToolTip": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\logic.h",
+              "RelativeToolTip": "Project1\\logic.h",
+              "ViewState": "AgIAABkAAAAAAAAAAAAxwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T04:14:10.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "graphics.cpp",
+              "DocumentMoniker": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\graphics.cpp",
+              "RelativeDocumentMoniker": "Project1\\graphics.cpp",
+              "ToolTip": "D:\\Job_space\\C\u002B\u002B\\BankingSystemProject\\Project1\\graphics.cpp",
+              "RelativeToolTip": "Project1\\graphics.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T04:14:58.261Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
