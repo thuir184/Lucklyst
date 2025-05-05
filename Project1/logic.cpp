@@ -56,7 +56,13 @@ void GameLogic::updateFruits(Graphics& gfx) {
     if (treeShaking) {
         Mix_PlayChannel(-1, gfx.dropSound, 0);
         for (int i = 0; i < 10; ++i) {
-            SDL_Rect treeRect = { 300 + (i % 2 == 0 ? 5 : -5), 80, 200, 300 };
+           SDL_Rect treeRect;
+           if (i % 2 == 0) {
+                treeRect = { 300 + 5, 80, 200, 300 };
+            }
+            else {
+                treeRect = { 300 - 5, 80, 200, 300 };
+            }
             SDL_RenderCopy(gfx.renderer, gfx.treeTexture, NULL, &treeRect);
             SDL_RenderPresent(gfx.renderer);
             SDL_Delay(30);
@@ -105,7 +111,12 @@ void GameLogic::renderGame(Graphics& gfx) {
 }
 
 void GameLogic::renderInputField(InputField& field, Graphics& gfx) {
-    SDL_SetRenderDrawColor(gfx.renderer, field.active ? 200 : 100, 100, 100, 255);
+    if (field.active) {
+        SDL_SetRenderDrawColor(gfx.renderer, 200, 100, 100, 255);
+    }
+    else {
+        SDL_SetRenderDrawColor(gfx.renderer, 100, 100, 100, 255);
+    }
     SDL_RenderFillRect(gfx.renderer, &field.rect);
     gfx.renderText(field.text, field.rect.x + 5, field.rect.y + 5, gfx.white);
 
