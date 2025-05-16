@@ -31,9 +31,11 @@ void GameLogic::startGame(Graphics& gfx) {
     fruits.clear();
 
     if (!customers.empty()) {
-        random_device rd;
-        mt19937 g(rd());
-        shuffle(customers.begin(), customers.end(), g);
+        srand(time(0));
+    for (size_t i = customers.size() - 1; i > 0; --i) {
+        size_t j = rand() % (i + 1);
+    std::swap(customers[i], customers[j]);
+    }
 
         struct Branch { int minX, maxX, minY, maxY; };
         vector<Branch> branches = {
